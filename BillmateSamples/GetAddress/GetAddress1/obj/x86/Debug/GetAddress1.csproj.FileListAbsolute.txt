@@ -1,0 +1,9 @@
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\GetAddress\GetAddress1\bin\Debug\GetAddress1.exe
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\GetAddress\GetAddress1\bin\Debug\GetAddress1.pdb
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\GetAddress\GetAddress1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\GetAddress\GetAddress1\obj\x86\Debug\GetAddress1.exe
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\GetAddress\GetAddress1\obj\x86\Debug\GetAddress1.pdb
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\GetAddress\GetAddress1\bin\Debug\GetAddress1.exe.config
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\GetAddress\GetAddress1\bin\Debug\BillmateAPI.dll
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\GetAddress\GetAddress1\bin\Debug\CookComputing.XmlRpcV2.dll
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\GetAddress\GetAddress1\bin\Debug\BillmateAPI.pdb

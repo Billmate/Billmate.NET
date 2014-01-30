@@ -1,0 +1,5 @@
+C:\Documents and Settings\Yuksel\Local Settings\Application Data\Temporary Projects\GetAddress\bin\Debug\GetAddress.exe
+C:\Documents and Settings\Yuksel\Local Settings\Application Data\Temporary Projects\GetAddress\bin\Debug\GetAddress.pdb
+C:\Documents and Settings\Yuksel\Local Settings\Application Data\Temporary Projects\GetAddress\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Yuksel\Local Settings\Application Data\Temporary Projects\GetAddress\obj\x86\Debug\GetAddress.exe
+C:\Documents and Settings\Yuksel\Local Settings\Application Data\Temporary Projects\GetAddress\obj\x86\Debug\GetAddress.pdb

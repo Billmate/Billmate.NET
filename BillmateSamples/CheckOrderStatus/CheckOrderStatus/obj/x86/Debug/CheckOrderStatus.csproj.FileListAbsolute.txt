@@ -1,0 +1,9 @@
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\CheckOrderStatus\CheckOrderStatus\bin\Debug\CheckOrderStatus.exe.config
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\CheckOrderStatus\CheckOrderStatus\bin\Debug\CheckOrderStatus.exe
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\CheckOrderStatus\CheckOrderStatus\bin\Debug\CheckOrderStatus.pdb
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\CheckOrderStatus\CheckOrderStatus\bin\Debug\BillmateAPI.dll
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\CheckOrderStatus\CheckOrderStatus\bin\Debug\CookComputing.XmlRpcV2.dll
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\CheckOrderStatus\CheckOrderStatus\bin\Debug\BillmateAPI.pdb
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\CheckOrderStatus\CheckOrderStatus\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\CheckOrderStatus\CheckOrderStatus\obj\x86\Debug\CheckOrderStatus.exe
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\CheckOrderStatus\CheckOrderStatus\obj\x86\Debug\CheckOrderStatus.pdb

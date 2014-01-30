@@ -1,0 +1,9 @@
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\ReserveAmount\ReserveAmount\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\ReserveAmount\ReserveAmount\bin\Debug\ReserveAmount.exe.config
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\ReserveAmount\ReserveAmount\bin\Debug\ReserveAmount.exe
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\ReserveAmount\ReserveAmount\bin\Debug\ReserveAmount.pdb
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\ReserveAmount\ReserveAmount\bin\Debug\BillmateAPI.dll
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\ReserveAmount\ReserveAmount\bin\Debug\CookComputing.XmlRpcV2.dll
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\ReserveAmount\ReserveAmount\bin\Debug\BillmateAPI.pdb
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\ReserveAmount\ReserveAmount\obj\x86\Debug\ReserveAmount.exe
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\ReserveAmount\ReserveAmount\obj\x86\Debug\ReserveAmount.pdb

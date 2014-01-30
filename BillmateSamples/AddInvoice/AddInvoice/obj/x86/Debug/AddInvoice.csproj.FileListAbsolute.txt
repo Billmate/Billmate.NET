@@ -1,0 +1,9 @@
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\AddInvoice\AddInvoice\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\AddInvoice\AddInvoice\bin\Debug\AddInvoice.exe.config
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\AddInvoice\AddInvoice\bin\Debug\AddInvoice.exe
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\AddInvoice\AddInvoice\bin\Debug\AddInvoice.pdb
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\AddInvoice\AddInvoice\bin\Debug\BillmateAPI.dll
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\AddInvoice\AddInvoice\bin\Debug\CookComputing.XmlRpcV2.dll
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\AddInvoice\AddInvoice\bin\Debug\BillmateAPI.pdb
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\AddInvoice\AddInvoice\obj\x86\Debug\AddInvoice.exe
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\AddInvoice\AddInvoice\obj\x86\Debug\AddInvoice.pdb

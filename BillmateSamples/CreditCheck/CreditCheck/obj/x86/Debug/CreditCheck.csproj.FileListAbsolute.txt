@@ -1,0 +1,9 @@
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\CreditCheck\CreditCheck\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\CreditCheck\CreditCheck\bin\Debug\CreditCheck.exe.config
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\CreditCheck\CreditCheck\bin\Debug\CreditCheck.exe
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\CreditCheck\CreditCheck\bin\Debug\CreditCheck.pdb
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\CreditCheck\CreditCheck\bin\Debug\BillmateAPI.dll
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\CreditCheck\CreditCheck\bin\Debug\CookComputing.XmlRpcV2.dll
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\CreditCheck\CreditCheck\bin\Debug\BillmateAPI.pdb
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\CreditCheck\CreditCheck\obj\x86\Debug\CreditCheck.exe
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\CreditCheck\CreditCheck\obj\x86\Debug\CreditCheck.pdb

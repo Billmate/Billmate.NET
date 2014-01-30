@@ -1,0 +1,9 @@
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\FetchCampaigns\FetchCampaigns\bin\Debug\FetchCampaigns.exe.config
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\FetchCampaigns\FetchCampaigns\bin\Debug\FetchCampaigns.exe
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\FetchCampaigns\FetchCampaigns\bin\Debug\FetchCampaigns.pdb
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\FetchCampaigns\FetchCampaigns\bin\Debug\BillmateAPI.dll
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\FetchCampaigns\FetchCampaigns\bin\Debug\CookComputing.XmlRpcV2.dll
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\FetchCampaigns\FetchCampaigns\bin\Debug\BillmateAPI.pdb
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\FetchCampaigns\FetchCampaigns\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\FetchCampaigns\FetchCampaigns\obj\x86\Debug\FetchCampaigns.exe
+C:\Documents and Settings\Yuksel\My Documents\Visual Studio 2010\Projects\BillmateSamples\FetchCampaigns\FetchCampaigns\obj\x86\Debug\FetchCampaigns.pdb
